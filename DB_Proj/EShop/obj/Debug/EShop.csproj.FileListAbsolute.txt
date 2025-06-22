@@ -1,0 +1,95 @@
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\bin\Debug\EShop.exe.config
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\bin\Debug\EShop.exe
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\bin\Debug\EShop.pdb
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.AssemblyReference.cache
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.Form1.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.Properties.Resources.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.GenerateResource.cache
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.exe
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.pdb
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.Home.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.NewAccount.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.Games.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.Cricket22.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.MineCraft.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.Solitaire.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.StreetFighter.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.ShoppingCart.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.User.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.Checkout.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.Resources.Inventory.resources
+C:\Users\HU-Student.DESKTOP-Q3H5KJ9\Desktop\DB_Proj\EShop\obj\Debug\EShop.Resources.Wallet.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\bin\Debug\EShop.exe.config
+C:\Users\sh07554\Desktop\DB_Proj\EShop\bin\Debug\EShop.exe
+C:\Users\sh07554\Desktop\DB_Proj\EShop\bin\Debug\EShop.pdb
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Checkout.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Cricket22.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Form1.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Games.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Home.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.MineCraft.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.NewAccount.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Properties.Resources.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Resources.Inventory.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Resources.Wallet.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.ShoppingCart.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Solitaire.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.StreetFighter.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.User.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.GenerateResource.cache
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.exe
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.pdb
+C:\Users\hp\Desktop\DB_Proj\EShop\bin\Debug\EShop.exe.config
+C:\Users\hp\Desktop\DB_Proj\EShop\bin\Debug\EShop.exe
+C:\Users\hp\Desktop\DB_Proj\EShop\bin\Debug\EShop.pdb
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Checkout.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Cricket22.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Form1.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Games.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Home.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.MineCraft.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.NewAccount.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Properties.Resources.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Resources.Inventory.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Resources.Wallet.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.ShoppingCart.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Solitaire.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.StreetFighter.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.User.resources
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.exe
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.pdb
+C:\Users\hp\Desktop\DB_Proj\EShop\obj\Debug\EShop.Developer_Page.resources
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.AssemblyReference.cache
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\sh07554\Desktop\DB_Proj\EShop\obj\Debug\EShop.Developer_Page.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\bin\Debug\EShop.exe.config
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\bin\Debug\EShop.exe
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\bin\Debug\EShop.pdb
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.csproj.AssemblyReference.cache
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Checkout.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Cricket22.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Developer_Page.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Form1.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Games.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Home.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.MineCraft.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.NewAccount.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Properties.Resources.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Resources.Inventory.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Resources.Wallet.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.ShoppingCart.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.Solitaire.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.StreetFighter.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.User.resources
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.csproj.GenerateResource.cache
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.csproj.CoreCompileInputs.cache
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.exe
+C:\Users\ms07164\Desktop\RAM Gaming\DB_Proj\EShop\obj\Debug\EShop.pdb
